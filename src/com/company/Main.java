@@ -20,7 +20,7 @@ public class Main {
                 result += d;
             }
 
-            System.out.println(Arrays.deepToString(new double[][]{array})+" = "+ "(" + result / array.length + ")");
+            System.out.println(Arrays.deepToString(new double[][]{array}) + " = " + "(" + result / array.length + ")");
         }
 
     }
